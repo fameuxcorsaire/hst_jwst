@@ -1,4 +1,4 @@
-# HST & JWST: great space telecopes
+# HST & JWST: great space telescopes
 
 these are a series of jupyter notebooks created for a short course on introduction to general research in astrophysics to undergrads, oriented towards the exploration of capabilities and scienctific output of two of the greatest space telescopes
 
